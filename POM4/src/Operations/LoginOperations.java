@@ -65,7 +65,7 @@ public class LoginOperations {
 		InspectElements.logout().click();
 		Thread.sleep(3000);
 		
-		
+		System.out.println("hiiii");
 	}
 		}	
 }
